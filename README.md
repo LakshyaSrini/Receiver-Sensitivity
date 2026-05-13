@@ -31,6 +31,8 @@ Receiver specifications:
 
 Using the formulas above, calculate the receiver sensitivity.
 
+<img width="1208" height="1600" alt="WhatsApp Image 2026-05-13 at 1 04 22 PM" src="https://github.com/user-attachments/assets/ce9fd889-1ba7-4fac-9097-251bb3997f99" />
+
 ---
 
 ## Layout
@@ -59,6 +61,10 @@ Steps:
 3. Run the simulation.  
 4. Adjust attenuator until **Q factor = 6.00 ± 0.05**.  
 
+<img width="1920" height="1080" alt="Screenshot (304)" src="https://github.com/user-attachments/assets/83dd47d8-73d9-49f6-abd1-9bfbf2aa340c" />
+
+<img width="1920" height="1080" alt="Screenshot (305)" src="https://github.com/user-attachments/assets/2b5f4112-123f-409f-a6fe-c91bfdae027a" />
+
 ---
 
 ## Report
@@ -71,3 +77,7 @@ Your report should include:
 - Discussion of differences between analytical and simulation results.  
 
 ---
+
+## Result
+
+Thus the Experiment was successfully completed and the output is verified.
